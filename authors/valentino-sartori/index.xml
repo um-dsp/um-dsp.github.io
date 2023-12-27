@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valentino Sartori | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/valentino-sartori.html</link>
+      <atom:link href="/authors/valentino-sartori/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentino Sartori</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Sat, 12 Feb 2011 16:12:24 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Valentino Sartori</title>
+      <link>/authors/valentino-sartori.html</link>
+    </image>
+    
+    <item>
+      <title>Measuring the Impact of Different Metrics on Software Quality: a Case Study in the Open Source Domain</title>
+      <link>/publication/metrics.html</link>
+      <pubDate>Sat, 12 Feb 2011 16:12:24 -0500</pubDate>
+      <guid>/publication/metrics.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

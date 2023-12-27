@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trustworthy Machine Learning | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/tags/trustworthy-machine-learning.html</link>
+      <atom:link href="/tags/trustworthy-machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trustworthy Machine Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Trustworthy Machine Learning</title>
+      <link>/tags/trustworthy-machine-learning.html</link>
+    </image>
+    
+    <item>
+      <title>Trustworthy Machine Learning</title>
+      <link>/project/aml.html</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/project/aml.html</guid>
+      <description>&lt;p&gt;We study robustness (to training data poisoning, model evasion, model stealing), privacy (against training example membership inference), and the interaction among robustness, privacy, transparency, and fairness properties in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

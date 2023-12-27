@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ismat Jarin | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/ismat-jarin.html</link>
+      <atom:link href="/authors/ismat-jarin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ismat Jarin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Wed, 04 Jan 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Ismat Jarin</title>
+      <link>/authors/ismat-jarin.html</link>
+    </image>
+    
+    <item>
+      <title>MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members</title>
+      <link>/publication/miashield.html</link>
+      <pubDate>Wed, 04 Jan 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/miashield.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DP-UTIL: Comprehensive Utility Analysis of Differential Privacy in Machine Learning</title>
+      <link>/publication/dp-util.html</link>
+      <pubDate>Sat, 01 Jan 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/dp-util.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</title>
+      <link>/publication/pricure-2021.html</link>
+      <pubDate>Thu, 18 Feb 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/pricure-2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</title>
+      <link>/publication/pricure-iwspa21.html</link>
+      <pubDate>Thu, 18 Feb 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/pricure-iwspa21.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTI | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/tags/cti.html</link>
+      <atom:link href="/tags/cti/index.xml" rel="self" type="application/rss+xml" />
+    <description>CTI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>CTI</title>
+      <link>/tags/cti.html</link>
+    </image>
+    
+    <item>
+      <title>Cyber Threat Intelligence</title>
+      <link>/project/cti.html</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cti.html</guid>
+      <description>&lt;p&gt;Our focus is on systematic curation, characterization, measurement, and forensics of cyber threat intelligence (e.g., malware samples, infection traces, natural language threat descriptions).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

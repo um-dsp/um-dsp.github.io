@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Zulkernine | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/mohammad-zulkernine.html</link>
+      <atom:link href="/authors/mohammad-zulkernine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Zulkernine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 23 Jul 2013 23:39:46 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Mohammad Zulkernine</title>
+      <link>/authors/mohammad-zulkernine.html</link>
+    </image>
+    
+    <item>
+      <title>EINSPECT: Evolution-Guided Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/einspect-2013.html</link>
+      <pubDate>Tue, 23 Jul 2013 23:39:46 -0500</pubDate>
+      <guid>/publication/einspect-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConfEagle: Automated Analysis of Security Configuration Vulnerabilities in Web Applications</title>
+      <link>/publication/confeagle-2013.html</link>
+      <pubDate>Thu, 27 Jun 2013 23:39:33 -0500</pubDate>
+      <guid>/publication/confeagle-2013.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

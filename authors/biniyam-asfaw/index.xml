@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biniyam Asfaw | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/biniyam-asfaw.html</link>
+      <atom:link href="/authors/biniyam-asfaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biniyam Asfaw</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 12 Oct 2010 16:00:33 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Biniyam Asfaw</title>
+      <link>/authors/biniyam-asfaw.html</link>
+    </image>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>/publication/crisis-2010.html</link>
+      <pubDate>Tue, 12 Oct 2010 16:00:33 -0500</pubDate>
+      <guid>/publication/crisis-2010.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

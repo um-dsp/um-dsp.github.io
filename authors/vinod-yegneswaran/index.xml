@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinod Yegneswaran | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/vinod-yegneswaran.html</link>
+      <atom:link href="/authors/vinod-yegneswaran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vinod Yegneswaran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 05 Jun 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Vinod Yegneswaran</title>
+      <link>/authors/vinod-yegneswaran.html</link>
+    </image>
+    
+    <item>
+      <title>DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship</title>
+      <link>/publication/deresisor-usenix23.html</link>
+      <pubDate>Mon, 05 Jun 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/deresisor-usenix23.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial  Detection of  Censorship Measurements</title>
+      <link>/publication/wpes22.html</link>
+      <pubDate>Fri, 30 Sep 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/wpes22.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration</title>
+      <link>/publication/ekhunter-2015.html</link>
+      <pubDate>Tue, 10 Feb 2015 23:38:59 -0500</pubDate>
+      <guid>/publication/ekhunter-2015.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

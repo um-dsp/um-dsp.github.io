@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillip Porras | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/phillip-porras.html</link>
+      <atom:link href="/authors/phillip-porras/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phillip Porras</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 10 Feb 2015 23:38:59 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Phillip Porras</title>
+      <link>/authors/phillip-porras.html</link>
+    </image>
+    
+    <item>
+      <title>EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration</title>
+      <link>/publication/ekhunter-2015.html</link>
+      <pubDate>Tue, 10 Feb 2015 23:38:59 -0500</pubDate>
+      <guid>/publication/ekhunter-2015.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

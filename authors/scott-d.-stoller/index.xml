@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott D. Stoller | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/scott-d.-stoller.html</link>
+      <atom:link href="/authors/scott-d.-stoller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott D. Stoller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 07 Aug 2017 23:11:56 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Scott D. Stoller</title>
+      <link>/authors/scott-d.-stoller.html</link>
+    </image>
+    
+    <item>
+      <title>SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data</title>
+      <link>/publication/sleuth-2017.html</link>
+      <pubDate>Mon, 07 Aug 2017 23:11:56 -0500</pubDate>
+      <guid>/publication/sleuth-2017.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

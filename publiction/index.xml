@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publictions | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/publiction.html</link>
+      <atom:link href="/publiction/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publictions</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Thu, 18 Feb 2021 23:00:28 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Publictions</title>
+      <link>/publiction.html</link>
+    </image>
+    
+    <item>
+      <title>Pricure Iwspa21</title>
+      <link>/publiction/pricure-iwspa21.html</link>
+      <pubDate>Thu, 18 Feb 2021 23:00:28 -0500</pubDate>
+      <guid>/publiction/pricure-iwspa21.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

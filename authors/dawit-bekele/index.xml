@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawit Bekele | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/dawit-bekele.html</link>
+      <atom:link href="/authors/dawit-bekele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dawit Bekele</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 12 Oct 2010 16:00:33 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Dawit Bekele</title>
+      <link>/authors/dawit-bekele.html</link>
+    </image>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>/publication/crisis-2010.html</link>
+      <pubDate>Tue, 12 Oct 2010 16:00:33 -0500</pubDate>
+      <guid>/publication/crisis-2010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/context.html</link>
+      <pubDate>Tue, 16 Feb 2010 16:12:33 -0500</pubDate>
+      <guid>/publication/context.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

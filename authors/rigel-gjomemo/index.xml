@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rigel Gjomemo | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/rigel-gjomemo.html</link>
+      <atom:link href="/authors/rigel-gjomemo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rigel Gjomemo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Sat, 12 Oct 2019 01:28:44 -0400</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Rigel Gjomemo</title>
+      <link>/authors/rigel-gjomemo.html</link>
+    </image>
+    
+    <item>
+      <title>Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting</title>
+      <link>/publication/poirot2019.html</link>
+      <pubDate>Sat, 12 Oct 2019 01:28:44 -0400</pubDate>
+      <guid>/publication/poirot2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows</title>
+      <link>/publication/holmes2019.html</link>
+      <pubDate>Thu, 02 May 2019 14:28:33 -0400</pubDate>
+      <guid>/publication/holmes2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProPatrol: Attack Investigation via Extracted High-Level Tasks</title>
+      <link>/publication/propatrol2019.html</link>
+      <pubDate>Sun, 16 Dec 2018 15:55:33 -0400</pubDate>
+      <guid>/publication/propatrol2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications</title>
+      <link>/publication/navex-2018.html</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0400</pubDate>
+      <guid>/publication/navex-2018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data</title>
+      <link>/publication/sleuth-2017.html</link>
+      <pubDate>Mon, 07 Aug 2017 23:11:56 -0500</pubDate>
+      <guid>/publication/sleuth-2017.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chainsaw: Chained Automated Workflow-based Exploit Generation</title>
+      <link>/publication/chainsaw-2016.html</link>
+      <pubDate>Thu, 24 Nov 2016 23:38:47 -0500</pubDate>
+      <guid>/publication/chainsaw-2016.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

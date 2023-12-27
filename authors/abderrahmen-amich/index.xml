@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abderrahmen Amich | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/abderrahmen-amich.html</link>
+      <atom:link href="/authors/abderrahmen-amich/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abderrahmen Amich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 05 Jun 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Abderrahmen Amich</title>
+      <link>/authors/abderrahmen-amich.html</link>
+    </image>
+    
+    <item>
+      <title>DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship</title>
+      <link>/publication/deresisor-usenix23.html</link>
+      <pubDate>Mon, 05 Jun 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/deresisor-usenix23.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial  Detection of  Censorship Measurements</title>
+      <link>/publication/wpes22.html</link>
+      <pubDate>Fri, 30 Sep 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/wpes22.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EG-Booster: Explanation-Guided Booster of ML Evasion Attacks</title>
+      <link>/publication/eg-booster.html</link>
+      <pubDate>Sat, 01 Jan 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/eg-booster.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphence: Moving Target Defense Against Adversarial Examples</title>
+      <link>/publication/acsac21.html</link>
+      <pubDate>Sat, 28 Aug 2021 01:17:30 -0500</pubDate>
+      <guid>/publication/acsac21.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation-Guided Diagnosis of Machine Learning Evasion Attacks</title>
+      <link>/publication/securecomm21.html</link>
+      <pubDate>Thu, 27 May 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/securecomm21.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

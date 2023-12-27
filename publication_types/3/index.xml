@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/publication_types/3.html</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 09 Dec 2013 23:39:56 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>3</title>
+      <link>/publication_types/3.html</link>
+    </image>
+    
+    <item>
+      <title>Effective Analysis, Characterization, and Detection of Malicious Activities on the Web</title>
+      <link>/publication/www-2013.html</link>
+      <pubDate>Mon, 09 Dec 2013 23:39:56 -0500</pubDate>
+      <guid>/publication/www-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/ms-thesis.html</link>
+      <pubDate>Wed, 22 Aug 2007 16:13:10 -0500</pubDate>
+      <guid>/publication/ms-thesis.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

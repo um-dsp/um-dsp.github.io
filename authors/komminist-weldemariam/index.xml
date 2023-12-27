@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komminist Weldemariam | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/komminist-weldemariam.html</link>
+      <atom:link href="/authors/komminist-weldemariam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Komminist Weldemariam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 23 Jul 2013 23:39:46 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Komminist Weldemariam</title>
+      <link>/authors/komminist-weldemariam.html</link>
+    </image>
+    
+    <item>
+      <title>EINSPECT: Evolution-Guided Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/einspect-2013.html</link>
+      <pubDate>Tue, 23 Jul 2013 23:39:46 -0500</pubDate>
+      <guid>/publication/einspect-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConfEagle: Automated Analysis of Security Configuration Vulnerabilities in Web Applications</title>
+      <link>/publication/confeagle-2013.html</link>
+      <pubDate>Thu, 27 Jun 2013 23:39:33 -0500</pubDate>
+      <guid>/publication/confeagle-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BINSPECT: Holistic Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/binspect-2012.html</link>
+      <pubDate>Wed, 05 Sep 2012 23:40:06 -0500</pubDate>
+      <guid>/publication/binspect-2012.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Security Misconfiguration Vulnerabilities in Web Applications</title>
+      <link>/publication/scaamp.html</link>
+      <pubDate>Wed, 17 Aug 2011 16:11:53 -0500</pubDate>
+      <guid>/publication/scaamp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Website Detection: Effectiveness and Efficiency Issues</title>
+      <link>/publication/syssec.html</link>
+      <pubDate>Tue, 16 Aug 2011 16:12:07 -0500</pubDate>
+      <guid>/publication/syssec.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>/publication/crisis-2010.html</link>
+      <pubDate>Tue, 12 Oct 2010 16:00:33 -0500</pubDate>
+      <guid>/publication/crisis-2010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/context.html</link>
+      <pubDate>Tue, 16 Feb 2010 16:12:33 -0500</pubDate>
+      <guid>/publication/context.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT for Good: Opportunities, Challenges and the Way Forward</title>
+      <link>/publication/ict4g.html</link>
+      <pubDate>Thu, 11 Feb 2010 16:12:45 -0500</pubDate>
+      <guid>/publication/ict4g.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

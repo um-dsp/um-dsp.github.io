@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abeer Alhuzali | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/abeer-alhuzali.html</link>
+      <atom:link href="/authors/abeer-alhuzali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abeer Alhuzali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Wed, 15 Aug 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Abeer Alhuzali</title>
+      <link>/authors/abeer-alhuzali.html</link>
+    </image>
+    
+    <item>
+      <title>NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications</title>
+      <link>/publication/navex-2018.html</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0400</pubDate>
+      <guid>/publication/navex-2018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chainsaw: Chained Automated Workflow-based Exploit Generation</title>
+      <link>/publication/chainsaw-2016.html</link>
+      <pubDate>Thu, 24 Nov 2016 23:38:47 -0500</pubDate>
+      <guid>/publication/chainsaw-2016.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration</title>
+      <link>/publication/ekhunter-2015.html</link>
+      <pubDate>Tue, 10 Feb 2015 23:38:59 -0500</pubDate>
+      <guid>/publication/ekhunter-2015.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

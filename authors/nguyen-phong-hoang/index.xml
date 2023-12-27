@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nguyen Phong Hoang | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/nguyen-phong-hoang.html</link>
+      <atom:link href="/authors/nguyen-phong-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nguyen Phong Hoang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 05 Jun 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Nguyen Phong Hoang</title>
+      <link>/authors/nguyen-phong-hoang.html</link>
+    </image>
+    
+    <item>
+      <title>DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship</title>
+      <link>/publication/deresisor-usenix23.html</link>
+      <pubDate>Mon, 05 Jun 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/deresisor-usenix23.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

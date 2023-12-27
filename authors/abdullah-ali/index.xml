@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdullah Ali | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/abdullah-ali.html</link>
+      <atom:link href="/authors/abdullah-ali/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdullah Ali</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Sun, 28 Jun 2020 10:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Abdullah Ali</title>
+      <link>/authors/abdullah-ali.html</link>
+    </image>
+    
+    <item>
+      <title>Best-Effort Adversarial Approximation of Black-Box Malware Classifiers</title>
+      <link>/publication/securecomm20.html</link>
+      <pubDate>Sun, 28 Jun 2020 10:17:30 -0500</pubDate>
+      <guid>/publication/securecomm20.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

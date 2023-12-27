@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pietro Molini | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/pietro-molini.html</link>
+      <atom:link href="/authors/pietro-molini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pietro Molini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Sat, 12 Jan 2013 16:11:08 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Pietro Molini</title>
+      <link>/authors/pietro-molini.html</link>
+    </image>
+    
+    <item>
+      <title>SAMo: Experimenting a Social Accountability Web Platform</title>
+      <link>/publication/samo.html</link>
+      <pubDate>Sat, 12 Jan 2013 16:11:08 -0500</pubDate>
+      <guid>/publication/samo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Accountability for Mozambique: an Experience Report from the Moamba District</title>
+      <link>/publication/africomm.html</link>
+      <pubDate>Tue, 13 Nov 2012 16:34:58 -0500</pubDate>
+      <guid>/publication/africomm.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

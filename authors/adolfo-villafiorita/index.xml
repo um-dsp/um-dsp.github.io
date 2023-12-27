@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adolfo Villafiorita | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/adolfo-villafiorita.html</link>
+      <atom:link href="/authors/adolfo-villafiorita/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adolfo Villafiorita</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Tue, 23 Jul 2013 23:39:46 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Adolfo Villafiorita</title>
+      <link>/authors/adolfo-villafiorita.html</link>
+    </image>
+    
+    <item>
+      <title>EINSPECT: Evolution-Guided Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/einspect-2013.html</link>
+      <pubDate>Tue, 23 Jul 2013 23:39:46 -0500</pubDate>
+      <guid>/publication/einspect-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConfEagle: Automated Analysis of Security Configuration Vulnerabilities in Web Applications</title>
+      <link>/publication/confeagle-2013.html</link>
+      <pubDate>Thu, 27 Jun 2013 23:39:33 -0500</pubDate>
+      <guid>/publication/confeagle-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAMo: Experimenting a Social Accountability Web Platform</title>
+      <link>/publication/samo.html</link>
+      <pubDate>Sat, 12 Jan 2013 16:11:08 -0500</pubDate>
+      <guid>/publication/samo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Accountability for Mozambique: an Experience Report from the Moamba District</title>
+      <link>/publication/africomm.html</link>
+      <pubDate>Tue, 13 Nov 2012 16:34:58 -0500</pubDate>
+      <guid>/publication/africomm.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BINSPECT: Holistic Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/binspect-2012.html</link>
+      <pubDate>Wed, 05 Sep 2012 23:40:06 -0500</pubDate>
+      <guid>/publication/binspect-2012.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Security Misconfiguration Vulnerabilities in Web Applications</title>
+      <link>/publication/scaamp.html</link>
+      <pubDate>Wed, 17 Aug 2011 16:11:53 -0500</pubDate>
+      <guid>/publication/scaamp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Website Detection: Effectiveness and Efficiency Issues</title>
+      <link>/publication/syssec.html</link>
+      <pubDate>Tue, 16 Aug 2011 16:12:07 -0500</pubDate>
+      <guid>/publication/syssec.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Different Metrics on Software Quality: a Case Study in the Open Source Domain</title>
+      <link>/publication/metrics.html</link>
+      <pubDate>Sat, 12 Feb 2011 16:12:24 -0500</pubDate>
+      <guid>/publication/metrics.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>/publication/crisis-2010.html</link>
+      <pubDate>Tue, 12 Oct 2010 16:00:33 -0500</pubDate>
+      <guid>/publication/crisis-2010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/context.html</link>
+      <pubDate>Tue, 16 Feb 2010 16:12:33 -0500</pubDate>
+      <guid>/publication/context.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT for Good: Opportunities, Challenges and the Way Forward</title>
+      <link>/publication/ict4g.html</link>
+      <pubDate>Thu, 11 Feb 2010 16:12:45 -0500</pubDate>
+      <guid>/publication/ict4g.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

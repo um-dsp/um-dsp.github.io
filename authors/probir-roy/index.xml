@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probir Roy | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/authors/probir-roy.html</link>
+      <atom:link href="/authors/probir-roy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Probir Roy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Sat, 04 Mar 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Probir Roy</title>
+      <link>/authors/probir-roy.html</link>
+    </image>
+    
+    <item>
+      <title>Designing Secure Performance Metrics for Last-Level Cache</title>
+      <link>/publication/cerberus-2023.html</link>
+      <pubDate>Sat, 04 Mar 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/cerberus-2023.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

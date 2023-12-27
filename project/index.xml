@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | DSPLab @ University of Michigan, Dearborn</title>
+    <link>/project.html</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>Projects</title>
+      <link>/project.html</link>
+    </image>
+    
+    <item>
+      <title>Trustworthy Machine Learning</title>
+      <link>/project/aml.html</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/project/aml.html</guid>
+      <description>&lt;p&gt;We study robustness (to training data poisoning, model evasion, model stealing), privacy (against training example membership inference), and the interaction among robustness, privacy, transparency, and fairness properties in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyber Threat Intelligence</title>
+      <link>/project/cti.html</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cti.html</guid>
+      <description>&lt;p&gt;Our focus is on systematic curation, characterization, measurement, and forensics of cyber threat intelligence (e.g., malware samples, infection traces, natural language threat descriptions).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cybercrime Analysis</title>
+      <link>/project/cybercrime.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/cybercrime.html</guid>
+      <description>&lt;p&gt;We focus on analysis, reconstruction, measurement, and defense of cybercrime with focus on cybercrime activities (e.g., phishing, malware) cybercrimen toolkits (e.g., exploit kits, ransomware, and APTs).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DSPLab @ University of Michigan, Dearborn</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>DSPLab @ University of Michigan, Dearborn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© The Data-Driven Security &amp;amp; Privacy Lab - University of Michigan, Dearborn</copyright><lastBuildDate>Mon, 05 Jun 2023 01:17:30 -0500</lastBuildDate>
+    <image>
+      <url>/img/logo.png</url>
+      <title>DSPLab @ University of Michigan, Dearborn</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship</title>
+      <link>/publication/deresisor-usenix23.html</link>
+      <pubDate>Mon, 05 Jun 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/deresisor-usenix23.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Secure Performance Metrics for Last-Level Cache</title>
+      <link>/publication/cerberus-2023.html</link>
+      <pubDate>Sat, 04 Mar 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/cerberus-2023.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members</title>
+      <link>/publication/miashield.html</link>
+      <pubDate>Wed, 04 Jan 2023 01:17:30 -0500</pubDate>
+      <guid>/publication/miashield.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Machine Learning</title>
+      <link>/project/aml.html</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/project/aml.html</guid>
+      <description>&lt;p&gt;We study robustness (to training data poisoning, model evasion, model stealing), privacy (against training example membership inference), and the interaction among robustness, privacy, transparency, and fairness properties in machine learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adversarial  Detection of  Censorship Measurements</title>
+      <link>/publication/wpes22.html</link>
+      <pubDate>Fri, 30 Sep 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/wpes22.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DP-UTIL: Comprehensive Utility Analysis of Differential Privacy in Machine Learning</title>
+      <link>/publication/dp-util.html</link>
+      <pubDate>Sat, 01 Jan 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/dp-util.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EG-Booster: Explanation-Guided Booster of ML Evasion Attacks</title>
+      <link>/publication/eg-booster.html</link>
+      <pubDate>Sat, 01 Jan 2022 01:17:30 -0500</pubDate>
+      <guid>/publication/eg-booster.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphence: Moving Target Defense Against Adversarial Examples</title>
+      <link>/publication/acsac21.html</link>
+      <pubDate>Sat, 28 Aug 2021 01:17:30 -0500</pubDate>
+      <guid>/publication/acsac21.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making Machine Learning Trustworthy</title>
+      <link>/publication/science2021.html</link>
+      <pubDate>Thu, 12 Aug 2021 01:17:30 -0500</pubDate>
+      <guid>/publication/science2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation-Guided Diagnosis of Machine Learning Evasion Attacks</title>
+      <link>/publication/securecomm21.html</link>
+      <pubDate>Thu, 27 May 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/securecomm21.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricure Iwspa21</title>
+      <link>/publiction/pricure-iwspa21.html</link>
+      <pubDate>Thu, 18 Feb 2021 23:00:28 -0500</pubDate>
+      <guid>/publiction/pricure-iwspa21.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</title>
+      <link>/publication/pricure-2021.html</link>
+      <pubDate>Thu, 18 Feb 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/pricure-2021.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</title>
+      <link>/publication/pricure-iwspa21.html</link>
+      <pubDate>Thu, 18 Feb 2021 10:17:30 -0500</pubDate>
+      <guid>/publication/pricure-iwspa21.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best-Effort Adversarial Approximation of Black-Box Malware Classifiers</title>
+      <link>/publication/securecomm20.html</link>
+      <pubDate>Sun, 28 Jun 2020 10:17:30 -0500</pubDate>
+      <guid>/publication/securecomm20.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber Threat Intelligence</title>
+      <link>/project/cti.html</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/cti.html</guid>
+      <description>&lt;p&gt;Our focus is on systematic curation, characterization, measurement, and forensics of cyber threat intelligence (e.g., malware samples, infection traces, natural language threat descriptions).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting</title>
+      <link>/publication/poirot2019.html</link>
+      <pubDate>Sat, 12 Oct 2019 01:28:44 -0400</pubDate>
+      <guid>/publication/poirot2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows</title>
+      <link>/publication/holmes2019.html</link>
+      <pubDate>Thu, 02 May 2019 14:28:33 -0400</pubDate>
+      <guid>/publication/holmes2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProPatrol: Attack Investigation via Extracted High-Level Tasks</title>
+      <link>/publication/propatrol2019.html</link>
+      <pubDate>Sun, 16 Dec 2018 15:55:33 -0400</pubDate>
+      <guid>/publication/propatrol2019.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications</title>
+      <link>/publication/navex-2018.html</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 -0400</pubDate>
+      <guid>/publication/navex-2018.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data</title>
+      <link>/publication/sleuth-2017.html</link>
+      <pubDate>Mon, 07 Aug 2017 23:11:56 -0500</pubDate>
+      <guid>/publication/sleuth-2017.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYNAMINER: Leveraging Offline Infection Analytics for On-the-Wire Malware Detection</title>
+      <link>/publication/dynaminer-2017.html</link>
+      <pubDate>Thu, 06 Jul 2017 18:17:30 -0500</pubDate>
+      <guid>/publication/dynaminer-2017.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chainsaw: Chained Automated Workflow-based Exploit Generation</title>
+      <link>/publication/chainsaw-2016.html</link>
+      <pubDate>Thu, 24 Nov 2016 23:38:47 -0500</pubDate>
+      <guid>/publication/chainsaw-2016.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration</title>
+      <link>/publication/ekhunter-2015.html</link>
+      <pubDate>Tue, 10 Feb 2015 23:38:59 -0500</pubDate>
+      <guid>/publication/ekhunter-2015.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebWinnow: Leveraging exploit kit workflows to detect malicious URLs</title>
+      <link>/publication/webwinnow-2014.html</link>
+      <pubDate>Thu, 06 Mar 2014 23:39:09 -0500</pubDate>
+      <guid>/publication/webwinnow-2014.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Analysis, Characterization, and Detection of Malicious Activities on the Web</title>
+      <link>/publication/www-2013.html</link>
+      <pubDate>Mon, 09 Dec 2013 23:39:56 -0500</pubDate>
+      <guid>/publication/www-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EINSPECT: Evolution-Guided Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/einspect-2013.html</link>
+      <pubDate>Tue, 23 Jul 2013 23:39:46 -0500</pubDate>
+      <guid>/publication/einspect-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConfEagle: Automated Analysis of Security Configuration Vulnerabilities in Web Applications</title>
+      <link>/publication/confeagle-2013.html</link>
+      <pubDate>Thu, 27 Jun 2013 23:39:33 -0500</pubDate>
+      <guid>/publication/confeagle-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Analysis, Characterization, and Detection of Malicious Web Pages</title>
+      <link>/publication/phd-2013.html</link>
+      <pubDate>Sun, 05 May 2013 15:19:10 -0500</pubDate>
+      <guid>/publication/phd-2013.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAMo: Experimenting a Social Accountability Web Platform</title>
+      <link>/publication/samo.html</link>
+      <pubDate>Sat, 12 Jan 2013 16:11:08 -0500</pubDate>
+      <guid>/publication/samo.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Accountability for Mozambique: an Experience Report from the Moamba District</title>
+      <link>/publication/africomm.html</link>
+      <pubDate>Tue, 13 Nov 2012 16:34:58 -0500</pubDate>
+      <guid>/publication/africomm.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BINSPECT: Holistic Analysis and Detection of Malicious Web Pages</title>
+      <link>/publication/binspect-2012.html</link>
+      <pubDate>Wed, 05 Sep 2012 23:40:06 -0500</pubDate>
+      <guid>/publication/binspect-2012.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Security Misconfiguration Vulnerabilities in Web Applications</title>
+      <link>/publication/scaamp.html</link>
+      <pubDate>Wed, 17 Aug 2011 16:11:53 -0500</pubDate>
+      <guid>/publication/scaamp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Website Detection: Effectiveness and Efficiency Issues</title>
+      <link>/publication/syssec.html</link>
+      <pubDate>Tue, 16 Aug 2011 16:12:07 -0500</pubDate>
+      <guid>/publication/syssec.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Different Metrics on Software Quality: a Case Study in the Open Source Domain</title>
+      <link>/publication/metrics.html</link>
+      <pubDate>Sat, 12 Feb 2011 16:12:24 -0500</pubDate>
+      <guid>/publication/metrics.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>/publication/crisis-2010.html</link>
+      <pubDate>Tue, 12 Oct 2010 16:00:33 -0500</pubDate>
+      <guid>/publication/crisis-2010.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/context.html</link>
+      <pubDate>Tue, 16 Feb 2010 16:12:33 -0500</pubDate>
+      <guid>/publication/context.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT for Good: Opportunities, Challenges and the Way Forward</title>
+      <link>/publication/ict4g.html</link>
+      <pubDate>Thu, 11 Feb 2010 16:12:45 -0500</pubDate>
+      <guid>/publication/ict4g.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>/publication/ms-thesis.html</link>
+      <pubDate>Wed, 22 Aug 2007 16:13:10 -0500</pubDate>
+      <guid>/publication/ms-thesis.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cybercrime Analysis</title>
+      <link>/project/cybercrime.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/cybercrime.html</guid>
+      <description>&lt;p&gt;We focus on analysis, reconstruction, measurement, and defense of cybercrime with focus on cybercrime activities (e.g., phishing, malware) cybercrimen toolkits (e.g., exploit kits, ransomware, and APTs).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

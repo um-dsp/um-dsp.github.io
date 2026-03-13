@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | </title>
+    <link>https://um-dsp.github.io/publication_types/paper-conference/</link>
+      <atom:link href="https://um-dsp.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://um-dsp.github.io/media/logo_hu_890b8bed4c0443a6.png</url>
+      <title>Paper-Conference</title>
+      <link>https://um-dsp.github.io/publication_types/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>DeepLeak: Privacy Enhancing Hardening of Model Explanations Against Membership Leakage</title>
+      <link>https://um-dsp.github.io/publications/deepleak-ieee-satml-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/deepleak-ieee-satml-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepProv: Behavioral Characterization and Repair of Neural Networks via Inference Provenance Graph Analysis</title>
+      <link>https://um-dsp.github.io/publications/deepprov-ieee-acsac-2025/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/deepprov-ieee-acsac-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PoisonSpot: Precise Spotting of Clean-Label Backdoors via Fine-Grained Training Provenance Tracking</title>
+      <link>https://um-dsp.github.io/publications/poisonspot-acm-ccs-2025/</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/poisonspot-acm-ccs-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeResistor: Toward Detection-Resistant Probing for Evasion of Internet Censorship</title>
+      <link>https://um-dsp.github.io/publications/deresisor-usenix23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/deresisor-usenix23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Secure Performance Metrics for Last-Level Cache</title>
+      <link>https://um-dsp.github.io/publications/cerberus-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/cerberus-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIAShield: Defending Membership Inference Attacks via Preemptive Exclusion of Members</title>
+      <link>https://um-dsp.github.io/publications/miashield/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/miashield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Detection of Censorship Measurements</title>
+      <link>https://um-dsp.github.io/publications/wpes22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/wpes22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DP-UTIL: Comprehensive Utility Analysis of Differential Privacy in Machine Learning</title>
+      <link>https://um-dsp.github.io/publications/dp-util/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/dp-util/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EG-Booster: Explanation-Guided Booster of ML Evasion Attacks</title>
+      <link>https://um-dsp.github.io/publications/eg-booster/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/eg-booster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation-Guided Diagnosis of Machine Learning Evasion Attacks</title>
+      <link>https://um-dsp.github.io/publications/securecomm21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/securecomm21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphence: Moving Target Defense Against Adversarial Examples</title>
+      <link>https://um-dsp.github.io/publications/acsac21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/acsac21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRICURE: Privacy-Preserving Collaborative Inference in a Multi-Party Setting</title>
+      <link>https://um-dsp.github.io/publications/pricure-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/pricure-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best-Effort Adversarial Approximation of Black-Box Malware Classifiers</title>
+      <link>https://um-dsp.github.io/publications/securecomm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/securecomm20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOLMES: Real-time APT Detection through Correlation of Suspicious Information Flows</title>
+      <link>https://um-dsp.github.io/publications/holmes2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/holmes2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poirot: Aligning Attack Behavior with Kernel Audit Records for Cyber Threat Hunting</title>
+      <link>https://um-dsp.github.io/publications/poirot2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/poirot2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAVEX: Precise and Scalable Exploit Generation for Dynamic Web Applications</title>
+      <link>https://um-dsp.github.io/publications/navex-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/navex-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProPatrol: Attack Investigation via Extracted High-Level Tasks</title>
+      <link>https://um-dsp.github.io/publications/propatrol2019/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/propatrol2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DYNAMINER: Leveraging Offline Infection Analytics for On-the-Wire Malware Detection</title>
+      <link>https://um-dsp.github.io/publications/dynaminer-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/dynaminer-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data</title>
+      <link>https://um-dsp.github.io/publications/sleuth-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/sleuth-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chainsaw: Chained Automated Workflow-based Exploit Generation</title>
+      <link>https://um-dsp.github.io/publications/chainsaw-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/chainsaw-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EKHunter: A Counter-Offensive Toolkit for Exploit Kit Infiltration</title>
+      <link>https://um-dsp.github.io/publications/ekhunter-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/ekhunter-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebWinnow: Leveraging exploit kit workflows to detect malicious URLs</title>
+      <link>https://um-dsp.github.io/publications/webwinnow-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/webwinnow-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ConfEagle: Automated Analysis of Security Configuration Vulnerabilities in Web Applications</title>
+      <link>https://um-dsp.github.io/publications/confeagle-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/confeagle-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective Analysis, Characterization, and Detection of Malicious Web Pages</title>
+      <link>https://um-dsp.github.io/publications/phd-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/phd-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EINSPECT: Evolution-Guided Analysis and Detection of Malicious Web Pages</title>
+      <link>https://um-dsp.github.io/publications/einspect-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/einspect-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAMo: Experimenting a Social Accountability Web Platform</title>
+      <link>https://um-dsp.github.io/publications/samo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/samo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BINSPECT: Holistic Analysis and Detection of Malicious Web Pages</title>
+      <link>https://um-dsp.github.io/publications/binspect-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/binspect-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Accountability for Mozambique: an Experience Report from the Moamba District</title>
+      <link>https://um-dsp.github.io/publications/africomm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/africomm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Security Misconfiguration Vulnerabilities in Web Applications</title>
+      <link>https://um-dsp.github.io/publications/scaamp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/scaamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malicious Website Detection: Effectiveness and Efficiency Issues</title>
+      <link>https://um-dsp.github.io/publications/syssec/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/syssec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Impact of Different Metrics on Software Quality: a Case Study in the Open Source Domain</title>
+      <link>https://um-dsp.github.io/publications/metrics/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context Information Refinement for Pervasive Medical Systems</title>
+      <link>https://um-dsp.github.io/publications/context/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host-based Anomaly Detection for Pervasive Medical Systems</title>
+      <link>https://um-dsp.github.io/publications/crisis-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/crisis-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT for Good: Opportunities, Challenges and the Way Forward</title>
+      <link>https://um-dsp.github.io/publications/ict4g/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/ict4g/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

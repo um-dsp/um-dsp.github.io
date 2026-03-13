@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adversarial Examples | </title>
+    <link>https://um-dsp.github.io/tags/adversarial-examples/</link>
+      <atom:link href="https://um-dsp.github.io/tags/adversarial-examples/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adversarial Examples</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://um-dsp.github.io/media/logo_hu_890b8bed4c0443a6.png</url>
+      <title>Adversarial Examples</title>
+      <link>https://um-dsp.github.io/tags/adversarial-examples/</link>
+    </image>
+    
+    <item>
+      <title>EG-Booster: Explanation-Guided Booster of ML Evasion Attacks</title>
+      <link>https://um-dsp.github.io/publications/eg-booster/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/eg-booster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explanation-Guided Diagnosis of Machine Learning Evasion Attacks</title>
+      <link>https://um-dsp.github.io/publications/securecomm21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/securecomm21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

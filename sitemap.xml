@@ -1,463 +1,165 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <url>
-    <loc>/publication_types/1.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/abderrahmen-amich.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/birhanu-eshete.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/deresisor-usenix23.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nguyen-phong-hoang.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/vinod-yegneswaran.html</loc>
-    <lastmod>2023-06-05T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/cerberus-2023.html</loc>
-    <lastmod>2023-03-04T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pengfei-su.html</loc>
-    <lastmod>2023-03-04T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/probir-roy.html</loc>
-    <lastmod>2023-03-04T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ismat-jarin.html</loc>
-    <lastmod>2023-01-04T01:17:30-05:00</lastmod>
-  </url>
   
   <url>
-    <loc>/publication/miashield.html</loc>
-    <lastmod>2023-01-04T01:17:30-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project.html</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags.html</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/join/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags/trustworthy-machine-learning.html</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/people/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/aml.html</loc>
-    <lastmod>2022-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/research/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/wpes22.html</loc>
-    <lastmod>2022-09-30T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/acm/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/dp-util.html</loc>
-    <lastmod>2022-01-01T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/blog/acm-sigsac-linkedin-feature/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/eg-booster.html</loc>
-    <lastmod>2022-01-01T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/blog/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/acsac21.html</loc>
-    <lastmod>2021-08-28T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/community/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/2.html</loc>
-    <lastmod>2021-08-12T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/security-research/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/science2021.html</loc>
-    <lastmod>2021-08-12T01:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/sigsac/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/securecomm21.html</loc>
-    <lastmod>2021-05-27T10:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/</loc><lastmod>2026-03-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publiction/pricure-iwspa21.html</loc>
-    <lastmod>2021-02-18T23:00:28-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/blog/deepleak-satml-acceptance/</loc><lastmod>2026-03-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publiction.html</loc>
-    <lastmod>2021-02-18T23:00:28-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/ieee-satml/</loc><lastmod>2026-03-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/pricure-2021.html</loc>
-    <lastmod>2021-02-18T10:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/publications/</loc><lastmod>2026-03-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/pricure-iwspa21.html</loc>
-    <lastmod>2021-02-18T10:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/trustworthy-ml/</loc><lastmod>2026-03-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/abdullah-ali.html</loc>
-    <lastmod>2020-06-28T10:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/ieee-satc/</loc><lastmod>2026-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/securecomm20.html</loc>
-    <lastmod>2020-06-28T10:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/keynote/</loc><lastmod>2026-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags/cti.html</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/blog/keynote-satc-2026/</loc><lastmod>2026-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/cti.html</loc>
-    <lastmod>2019-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/talks/</loc><lastmod>2026-03-03T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/bbirhanu-eshete/b.html</loc>
-    <lastmod>2019-10-12T01:28:44-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/projects/deepleak/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/poirot2019.html</loc>
-    <lastmod>2019-10-12T01:28:44-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/deepleak-ieee-satml-2026/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/rigel-gjomemo.html</loc>
-    <lastmod>2019-10-12T01:28:44-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/explainable-ai/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/sadegh-m.-milajerdi.html</loc>
-    <lastmod>2019-10-12T01:28:44-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publication_types/paper-conference/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/v.n.-venkatakrishnan.html</loc>
-    <lastmod>2019-10-12T01:28:44-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/privacy-preserving-ml/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/holmes2019.html</loc>
-    <lastmod>2019-05-02T14:28:33-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publication_types/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/r.-sekar.html</loc>
-    <lastmod>2019-05-02T14:28:33-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/</loc><lastmod>2026-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/propatrol2019.html</loc>
-    <lastmod>2018-12-16T15:55:33-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/adversarial-ml/</loc><lastmod>2025-12-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/abeer-alhuzali.html</loc>
-    <lastmod>2018-08-15T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/projects/deepprov/</loc><lastmod>2025-12-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/navex-2018.html</loc>
-    <lastmod>2018-08-15T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/deepprov-ieee-acsac-2025/</loc><lastmod>2025-12-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/junao-wang.html</loc>
-    <lastmod>2017-08-07T23:11:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/inference-provenance/</loc><lastmod>2025-12-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/md-nahid-hossain.html</loc>
-    <lastmod>2017-08-07T23:11:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/inference-provenance-tracking-and-analysis/</loc><lastmod>2025-12-12T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/scott-d.-stoller.html</loc>
-    <lastmod>2017-08-07T23:11:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/backdoor-detection/</loc><lastmod>2025-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/sleuth-2017.html</loc>
-    <lastmod>2017-08-07T23:11:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/projects/poisonspot/</loc><lastmod>2025-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/dynaminer-2017.html</loc>
-    <lastmod>2017-07-06T18:17:30-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/poisonspot-acm-ccs-2025/</loc><lastmod>2025-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/chainsaw-2016.html</loc>
-    <lastmod>2016-11-24T23:38:47-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/training-provenance/</loc><lastmod>2025-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/ekhunter-2015.html</loc>
-    <lastmod>2015-02-10T23:38:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/training-provenance-tracking-and-analysis/</loc><lastmod>2025-11-22T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/maliheh-monshizadeh.html</loc>
-    <lastmod>2015-02-10T23:38:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/projects/</loc><lastmod>2024-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/phillip-porras.html</loc>
-    <lastmod>2015-02-10T23:38:59-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/deresisor-usenix23/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/webwinnow-2014.html</loc>
-    <lastmod>2014-03-06T23:39:09-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/cerberus-2023/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication_types/3.html</loc>
-    <lastmod>2013-12-09T23:39:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/membership-inference-defense/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/www-2013.html</loc>
-    <lastmod>2013-12-09T23:39:56-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/miashield/</loc><lastmod>2023-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/adolfo-villafiorita.html</loc>
-    <lastmod>2013-07-23T23:39:46-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/wpes22/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/einspect-2013.html</loc>
-    <lastmod>2013-07-23T23:39:46-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/adversarial-examples/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/komminist-weldemariam.html</loc>
-    <lastmod>2013-07-23T23:39:46-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/differential-privacy/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/mohammad-zulkernine.html</loc>
-    <lastmod>2013-07-23T23:39:46-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/dp-util/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/confeagle-2013.html</loc>
-    <lastmod>2013-06-27T23:39:33-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/eg-booster/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/phd-2013.html</loc>
-    <lastmod>2013-05-05T15:19:10-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/explainable-ml/</loc><lastmod>2022-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/aaron-ciaghi.html</loc>
-    <lastmod>2013-01-12T16:11:08-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/additive-secret-sharing/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/pietro-molini.html</loc>
-    <lastmod>2013-01-12T16:11:08-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publication_types/article-journal/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/samo.html</loc>
-    <lastmod>2013-01-12T16:11:08-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/securecomm21/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/africomm.html</loc>
-    <lastmod>2012-11-13T16:34:58-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/science2021/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/binspect-2012.html</loc>
-    <lastmod>2012-09-05T23:40:06-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/acsac21/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/scaamp.html</loc>
-    <lastmod>2011-08-17T16:11:53-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/pricure-2021/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/syssec.html</loc>
-    <lastmod>2011-08-16T16:12:07-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/secure-multiparty-computation/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/metrics.html</loc>
-    <lastmod>2011-02-12T16:12:24-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/securecomm20/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/valentino-sartori.html</loc>
-    <lastmod>2011-02-12T16:12:24-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/tags/model-extraction-attack/</loc><lastmod>2020-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/biniyam-asfaw.html</loc>
-    <lastmod>2010-10-12T16:00:33-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/holmes2019/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/dawit-bekele.html</loc>
-    <lastmod>2010-10-12T16:00:33-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/poirot2019/</loc><lastmod>2019-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/crisis-2010.html</loc>
-    <lastmod>2010-10-12T16:00:33-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/navex-2018/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/context.html</loc>
-    <lastmod>2010-02-16T16:12:33-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/propatrol2019/</loc><lastmod>2018-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/andrea-mattioli.html</loc>
-    <lastmod>2010-02-11T16:12:45-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/dynaminer-2017/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/ict4g.html</loc>
-    <lastmod>2010-02-11T16:12:45-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/sleuth-2017/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/publication/ms-thesis.html</loc>
-    <lastmod>2007-08-22T16:13:10-05:00</lastmod>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/chainsaw-2016/</loc><lastmod>2016-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/abderrahmen.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/ekhunter-2015/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/abdullah.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/webwinnow-2014/</loc><lastmod>2014-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/admin.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/confeagle-2013/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/ata.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/www-2013/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/chevy.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/phd-2013/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/christine.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/einspect-2013/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/elie.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/samo/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/hassaan.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publication_types/thesis/</loc><lastmod>2013-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/hassan.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/binspect-2012/</loc><lastmod>2012-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/ismat.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/africomm/</loc><lastmod>2012-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/jon.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/scaamp/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/majed.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/syssec/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/olajide.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/metrics/</loc><lastmod>2011-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/authors/zeineb.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/context/</loc><lastmod>2010-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/categories.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/crisis-2010/</loc><lastmod>2010-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/tags/cybercrime.html</loc>
-  </url>
-  
+    <loc>https://um-dsp.github.io/publications/ict4g/</loc><lastmod>2010-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/project/cybercrime.html</loc>
-  </url>
-  
-</urlset>
+    <loc>https://um-dsp.github.io/publications/ms-thesis/</loc><lastmod>2007-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Extraction Attack | </title>
+    <link>https://um-dsp.github.io/tags/model-extraction-attack/</link>
+      <atom:link href="https://um-dsp.github.io/tags/model-extraction-attack/index.xml" rel="self" type="application/rss+xml" />
+    <description>Model Extraction Attack</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://um-dsp.github.io/media/logo_hu_890b8bed4c0443a6.png</url>
+      <title>Model Extraction Attack</title>
+      <link>https://um-dsp.github.io/tags/model-extraction-attack/</link>
+    </image>
+    
+    <item>
+      <title>Best-Effort Adversarial Approximation of Black-Box Malware Classifiers</title>
+      <link>https://um-dsp.github.io/publications/securecomm20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://um-dsp.github.io/publications/securecomm20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
